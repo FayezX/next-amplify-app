@@ -1,6 +1,6 @@
 {
   "auth": {
-    "nextamplifiedapp4fc6d38a": {
+    "nextamplifiedappf72c24dc": {
       "customAuth": false,
       "dependsOn": [],
       "frontendAuthConfig": {
@@ -29,7 +29,7 @@
   },
   "hosting": {
     "amplifyhosting": {
-      "lastPushTimeStamp": "2023-11-15T04:51:47.682Z",
+      "lastPushTimeStamp": "2023-11-16T02:56:24.456Z",
       "service": "amplifyhosting",
       "type": "cicd"
     }
